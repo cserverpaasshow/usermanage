@@ -1,0 +1,17 @@
+com\cserver\saas\system\user\entity\User.class
+com\cserver\saas\system\user\dao\impl\BasicHibernateDAOImpl.class
+com\cserver\saas\system\user\util\PageUtil.class
+com\cserver\saas\system\user\util\JsonUtil.class
+com\cserver\saas\system\user\dao\impl\UserDaoImpl.class
+com\cserver\saas\system\user\dao\impl\BaseDaoImpl.class
+com\cserver\saas\system\user\dao\impl\UserDaoImpl$2.class
+com\cserver\saas\system\user\service\UserService.class
+com\cserver\saas\system\user\controller\UserController.class
+com\cserver\saas\system\user\service\impl\UserServiceImpl.class
+com\cserver\saas\system\user\dao\UserDao.class
+com\cserver\saas\system\user\service\BaseService.class
+com\cserver\saas\system\user\controller\BaseController.class
+com\cserver\saas\system\user\service\impl\BaseServiceImpl.class
+com\cserver\saas\system\user\dao\impl\UserDaoImpl$1.class
+com\cserver\saas\system\user\dao\BaseDao.class
+com\cserver\saas\system\user\dao\BasicHibernateDAO.class
